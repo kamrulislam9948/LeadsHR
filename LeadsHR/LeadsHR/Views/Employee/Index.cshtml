@@ -1,0 +1,172 @@
+﻿@using LeadsHR.ViewModels
+@model EmployeeViewModel
+
+@{
+    int sl = 0;
+    int sl2 = 0;
+
+}
+<!-- Font Awesome CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<style>
+  
+
+
+</style>
+
+<!-- Font Awesome CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+
+<div class="row">
+    <div class="col-12">
+        <div class="card mb-4">
+            <div class="card-header pb-0">
+                <h6>Employee List</h6>
+            </div>
+            <div class="card-body px-0 pt-0 pb-2">
+                <div class="table-responsive p-0">
+                    <table class="table align-items-center mb-0">
+                        <thead>
+                            <tr>
+                                <th class="text-center">SL</th>
+                                <th >Edu. Infos</th>
+                                <th>Employee</th>
+                                <th>Position</th>
+                                <th class="text-center">Division</th>
+                                <th class="text-center">Building</th>
+                                <th class="text-center">Room</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                          
+                            @foreach (var employee in Model.Employees)
+                            {
+                                <tr>
+                                    <td class="text-center">@(++sl)</td>
+                                    <td class="text-center toggle-btn" data-target="#edu-@employee.EmployeeId" style="cursor:pointer">
+                                        <i class="fas fa-chevron-right"></i>
+                                    </td>
+                                    <td>
+                                        <div class="d-flex px-2 py-1">
+                                            <div>
+                                                <img src="https://icons.veryicon.com/png/o/miscellaneous/two-color-icon-library/user-286.png" class="avatar avatar-sm me-3" alt="user">
+                                            </div>
+                                            <div class="d-flex flex-column justify-content-center">
+                                                <h6 class="mb-0 text-sm">@employee.FirstName @employee.LastName</h6>
+                                                <p class="text-xs text-secondary mb-0">@employee.Email</p>
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <p class="text-xs font-weight-bold mb-0">@employee.Title</p>
+                                        <p class="text-xs text-secondary mb-0">ID: @employee.EmployeeId</p>
+                                    </td>
+                                    <td class="text-center">@employee.Division</td>
+                                    <td class="text-center">@employee.Building</td>
+                                    <td class="text-center">@employee.Room</td>
+                                    <td>
+                                        <a asp-action="Edit" asp-route-id="@employee.EmployeeId" class="text-secondary font-weight-bold text-xs">Edit</a> |
+                                        <a asp-action="Delete" asp-route-id="@employee.EmployeeId" class="text-danger font-weight-bold text-xs">Delete</a>
+                                    </td>
+                                </tr>
+                                <tr id="edu-@employee.EmployeeId" class="collapse">
+                                    <td colspan="8">
+                                        <table class="table table-bordered mt-2">
+                                            <thead>
+                                                <tr>
+                                                    <th>Degree</th>
+                                                    <th>Institution</th>
+                                                    <th>Year of Passing</th>
+                                                    <th>CGPA</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                @foreach (var edu in Model.EducationInfos.Where(e => e.EmployeeId == employee.EmployeeId))
+                                                {
+                                                    <tr>
+                                                        <td>@edu.Degree</td>
+                                                        <td>@edu.Institution</td>
+                                                        <td>@edu.YearOfPassing</td>
+                                                        <td>@edu.CGPA</td>
+                                                    </tr>
+                                                }
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Employee Educational Info -->
+<div class="row">
+    <div class="col-12">
+        <div class="card mb-4">
+            <div class="card-header pb-0">
+                <h6>Employee Educational Info</h6>
+            </div>
+            <div class="card-body px-0 pt-0 pb-2">
+                <div class="table-responsive p-0">
+                    <table class="table align-items-center mb-0">
+                        <thead>
+                            <tr>
+                                <th>SL</th>
+                                <th>Employee</th>
+                                <th>Degree</th>
+                                <th>Institution</th>
+                                <th>Year</th>
+                                <th>CGPA</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var edu in Model.EducationInfos)
+                            {
+                                <tr>
+                                    <td class="text-center">@(++sl)</td>
+                                    <td>@edu.Employee.FirstName @edu.Employee.LastName</td>
+                                    <td>@edu.Degree</td>
+                                    <td>@edu.Institution</td>
+                                    <td>@edu.YearOfPassing</td>
+                                    <td>@edu.CGPA</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            document.querySelectorAll('.toggle-btn').forEach(td => {
+                td.addEventListener('click', function () {
+                    // Get the target element by the 'data-target' attribute
+                    let targetId = this.getAttribute('data-target');
+                    let targetRow = document.querySelector(targetId);
+
+                    // Toggle the 'show' class to control the collapse
+                    targetRow.classList.toggle('show');
+
+                    // Get the icon inside the td and toggle the chevron direction
+                    let icon = this.querySelector('i');
+                    icon.classList.toggle('fa-chevron-right');
+                    icon.classList.toggle('fa-chevron-down');
+                });
+            });
+        });
+    </script>
+}
+
+

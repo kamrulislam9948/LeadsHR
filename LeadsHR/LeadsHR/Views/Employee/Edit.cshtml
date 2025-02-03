@@ -1,0 +1,182 @@
+﻿@using LeadsHR.Models
+
+@model Employee
+
+@{
+    ViewData["Title"] = "Edit Employee";
+}
+
+<div class="row">
+    <div class="col-12">
+        <div class="card mb-4">
+            <div class="card-header pb-0">
+                <h6>Employee List</h6>
+            </div>
+            <div class="card-body">
+                <form method="post" asp-action="Edit">
+                    <div class="row">
+                        <input class="form-control" type="hidden" id="id" name="id" value="@Model.EmployeeId" />
+
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label for="FirstName">First Name</label>
+                                <input class="form-control" type="text" id="FirstName" name="FirstName" value="@Model.FirstName" />
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label for="LastName">Last Name</label>
+                                <input class="form-control" type="text" id="LastName" name="LastName" value="@Model.LastName" />
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label for="LastName">Email</label>
+                                <input class="form-control" type="email" id="Email" name="Email" value="@Model.Email" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="Division">Division</label>
+                                <input class="form-control" type="text" id="Division" name="Division" value="@Model.Division" />
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="Building">Building</label>
+                                <input class="form-control" type="text" id="Building" name="Building" value="@Model.Building" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="Title">Position</label>
+                                <input class="form-control" type="text" id="Title" name="Title" value="@Model.Title" />
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="LastName">Room</label>
+                                <input class="form-control" type="text" id="Room" name="Room" value="@Model.Room" />
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <p class="text-uppercase text-sm">
+                        Educational Information
+                        <div class="form-group">
+                            <button type="button" id="addEducationInfoBtn" class="btn btn-success">+</button>
+                        </div>
+                    </p>
+
+                    <!-- Educational Info Table -->
+                    <div id="educationInfos">
+                        @foreach (var education in Model.EducationInfos)
+                        {
+                            <div class="education-info">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="form-group">
+                                            <label for="Degree">Degree</label>
+                                            <input class="form-control" type="text" name="EducationInfos[@education.EducationInfoId].Degree" value="@education.Degree" />
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2">
+                                        <div class="form-group">
+                                            <label for="Institution">Institution</label>
+                                            <input class="form-control" type="text" name="EducationInfos[@education.EducationInfoId].Institution" value="@education.Institution" />
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2">
+                                        <div class="form-group">
+                                            <label for="YearOfPassing">Year of Passing</label>
+                                            <input class="form-control" type="number" name="EducationInfos[@education.EducationInfoId].YearOfPassing" value="@education.YearOfPassing" />
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2">
+                                        <div class="form-group">
+                                            <label for="CGPA">CGPA</label>
+                                            <input class="form-control" type="number" step="0.01" name="EducationInfos[@education.EducationInfoId].CGPA" value="@education.CGPA" />
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2 d-flex align-items-end">
+                                        <button type="button" class="btn btn-danger remove-education-btn">-</button>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+
+
+
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var educationCounter = @Model.EducationInfos.Count;
+
+            // Add new education info
+            document.getElementById("addEducationInfoBtn").addEventListener("click", function () {
+                var newEducation = `
+                    <div class="education-info">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="form-group">
+                                    <label for="Degree">Degree</label>
+                                    <input class="form-control" type="text" name="EducationInfos[${educationCounter}].Degree" />
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="form-group">
+                                    <label for="Institution">Institution</label>
+                                    <input class="form-control" type="text" name="EducationInfos[${educationCounter}].Institution" />
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="form-group">
+                                    <label for="YearOfPassing">Year of Passing</label>
+                                    <input class="form-control" type="number" name="EducationInfos[${educationCounter}].YearOfPassing" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="CGPA">CGPA</label>
+                                    <input class="form-control" type="number" step="0.01" name="EducationInfos[${educationCounter}].CGPA" />
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <button type="button" class="btn btn-danger remove-education-btn">Remove</button>
+                            </div>
+                        </div>
+                    </div>
+                `;
+
+                document.getElementById("educationInfos").insertAdjacentHTML('beforeend', newEducation);
+                educationCounter++;
+
+            });
+
+            // Remove education info
+            document.addEventListener("click", function (event) {
+                if (event.target && event.target.classList.contains('remove-education-btn')) {
+                    event.target.closest('.education-info').remove();
+                }
+            });
+        });
+    </script>
+
+
+}
