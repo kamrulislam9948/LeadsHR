@@ -78,19 +78,19 @@
                         {
                             <div class="education-info">
                                 <div class="row">
-                                    <div class="col-md-2">
+                                    <div class="col-md-3">
                                         <div class="form-group">
                                             <label for="Degree">Degree</label>
                                             <input class="form-control" type="text" name="EducationInfos[@education.EducationInfoId].Degree" value="@education.Degree" />
                                         </div>
                                     </div>
-                                    <div class="col-md-2">
+                                    <div class="col-md-3">
                                         <div class="form-group">
                                             <label for="Institution">Institution</label>
                                             <input class="form-control" type="text" name="EducationInfos[@education.EducationInfoId].Institution" value="@education.Institution" />
                                         </div>
                                     </div>
-                                    <div class="col-md-2">
+                                    <div class="col-md-3">
                                         <div class="form-group">
                                             <label for="YearOfPassing">Year of Passing</label>
                                             <input class="form-control" type="number" name="EducationInfos[@education.EducationInfoId].YearOfPassing" value="@education.YearOfPassing" />
@@ -102,7 +102,7 @@
                                             <input class="form-control" type="number" step="0.01" name="EducationInfos[@education.EducationInfoId].CGPA" value="@education.CGPA" />
                                         </div>
                                     </div>
-                                    <div class="col-md-2 d-flex align-items-end">
+                                    <div class="col-md-1 d-flex align-items-end">
                                         <button type="button" class="btn btn-danger remove-education-btn">-</button>
                                     </div>
                                 </div>
@@ -128,40 +128,40 @@
             // Add new education info
             document.getElementById("addEducationInfoBtn").addEventListener("click", function () {
                 var newEducation = `
-            <div class="education-info">
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="form-group">
-                            <label for="Degree">Degree</label>
-                            <input class="form-control" type="text" name="EducationInfos[${educationCounter}].Degree" />
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="form-group">
-                            <label for="Institution">Institution</label>
-                            <input class="form-control" type="text" name="EducationInfos[${educationCounter}].Institution" />
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="form-group">
-                            <label for="YearOfPassing">Year of Passing</label>
-                            <input class="form-control" type="number" name="EducationInfos[${educationCounter}].YearOfPassing" />
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="form-group">
-                            <label for="CGPA">CGPA</label>
-                            <input class="form-control" type="number" step="0.01" name="EducationInfos[${educationCounter}].CGPA" />
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <button type="button" class="btn btn-danger remove-education-btn">Remove</button>
-                    </div>
-                </div>
-            </div>
-        `;
+                            <div class="education-info">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="Degree">Degree</label>
+                                            <input class="form-control" type="text" name="EducationInfos[${educationCounter}].Degree" />
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="Institution">Institution</label>
+                                            <input class="form-control" type="text" name="EducationInfos[${educationCounter}].Institution" />
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="YearOfPassing">Year of Passing</label>
+                                            <input class="form-control" type="number" name="EducationInfos[${educationCounter}].YearOfPassing" />
+                                        </div>
+                                    </div>
+                                                       <div class="col-md-2">
+                                                <div class="form-group">
+                                                    <label for="CGPA">CGPA</label>
+                                                    <input class="form-control" type="number" step="0.01" name="EducationInfos[${educationCounter}].CGPA" />
+                                                </div>
+                                            </div>
+
+                                                            <div class="col-md-1 d-flex align-items-end">
+                                                <button type="button" class="btn btn-danger remove-education-btn">-</button>
+                                            </div>
+                                </div>
+
+                            </div>
+                        `;
 
                 document.getElementById("educationInfos").insertAdjacentHTML('beforeend', newEducation);
                 educationCounter++;

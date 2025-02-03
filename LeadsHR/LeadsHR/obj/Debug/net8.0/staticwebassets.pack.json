@@ -1,1427 +1,1427 @@
 {
   "Files": [
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LeadsHR.bundle.scp.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LeadsHR.bundle.scp.css",
       "PackagePath": "staticwebassets\\LeadsHR.bundle.scp.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\css\\argon-dashboard.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\css\\argon-dashboard.css",
       "PackagePath": "staticwebassets\\assets\\css\\argon-dashboard.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\css\\argon-dashboard.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\css\\argon-dashboard.css.map",
       "PackagePath": "staticwebassets\\assets\\css\\argon-dashboard.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\css\\argon-dashboard.min.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\css\\argon-dashboard.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\argon-dashboard.min.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\css\\nucleo-icons.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\css\\nucleo-icons.css",
       "PackagePath": "staticwebassets\\assets\\css\\nucleo-icons.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\css\\nucleo-svg.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\css\\nucleo-svg.css",
       "PackagePath": "staticwebassets\\assets\\css\\nucleo-svg.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.eot"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo-icons.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo-icons.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.ttf"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff2"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo.eot",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.eot"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo.ttf",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.ttf"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo.woff",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo.woff2",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\fonts\\nucleo.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff2"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\apple-icon.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\apple-icon.png",
       "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\bg-profile.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\bg-profile.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg-profile.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\bg1.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\bg1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg1.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\bruce-mars.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\bruce-mars.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bruce-mars.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\carousel-1.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\carousel-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\carousel-1.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\carousel-2.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\carousel-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\carousel-2.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\carousel-3.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\carousel-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\carousel-3.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved-10.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved-10.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-10.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved-11.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved-11.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-11.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved-6.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved-6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-6.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved-8.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved-8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-8.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved0.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved0.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved0.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved1.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved1.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved10.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved10.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved10.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved11-small.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved11-small.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved11-small.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved11.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved11.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved11.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved12.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved12.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved12.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved13.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved13.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved13.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved14.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved14.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved14.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved19.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved19.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved19.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved2.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved2.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved21.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved21.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved21.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved3.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved3.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved4.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved4.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved5-small.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved5-small.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved5-small.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved5.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved5.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved6-small.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved6-small.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved6-small.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved6.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved6.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved7.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved7.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved7.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved8.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved8.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved9.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\curved9.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved9.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\white-curved.jpeg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\curved-images\\white-curved.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\white-curved.jpeg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\down-arrow-dark.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\down-arrow-dark.svg",
       "PackagePath": "staticwebassets\\assets\\img\\down-arrow-dark.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\down-arrow-white.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\down-arrow-white.svg",
       "PackagePath": "staticwebassets\\assets\\img\\down-arrow-white.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\down-arrow.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\down-arrow.svg",
       "PackagePath": "staticwebassets\\assets\\img\\down-arrow.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\favicon.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\home-decor-1.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\home-decor-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\home-decor-1.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\home-decor-2.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\home-decor-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\home-decor-2.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\home-decor-3.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\home-decor-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\home-decor-3.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\icons\\flags\\AU.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\icons\\flags\\AU.png",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\AU.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\icons\\flags\\BR.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\icons\\flags\\BR.png",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\BR.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\icons\\flags\\DE.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\icons\\flags\\DE.png",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\DE.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\icons\\flags\\GB.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\icons\\flags\\GB.png",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\GB.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\icons\\flags\\US.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\icons\\flags\\US.png",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\US.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\illustrations\\icon-documentation.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\illustrations\\icon-documentation.svg",
       "PackagePath": "staticwebassets\\assets\\img\\illustrations\\icon-documentation.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\illustrations\\rocket-white.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\illustrations\\rocket-white.png",
       "PackagePath": "staticwebassets\\assets\\img\\illustrations\\rocket-white.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\ivana-square.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\ivana-square.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\ivana-square.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\ivancik.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\ivancik.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\ivancik.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\kal-visuals-square.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\kal-visuals-square.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\kal-visuals-square.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\logo-ct-dark.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\logo-ct-dark.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo-ct-dark.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\logo-ct.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\logo-ct.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo-ct.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\logos\\mastercard.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\logos\\mastercard.png",
       "PackagePath": "staticwebassets\\assets\\img\\logos\\mastercard.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\logos\\visa.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\logos\\visa.png",
       "PackagePath": "staticwebassets\\assets\\img\\logos\\visa.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\marie.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\marie.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\marie.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\pattern-lines.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\pattern-lines.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\pattern-lines.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\shape-1.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\shape-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-1.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\shape-2.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\shape-2.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-2.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\shape-3.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\shape-3.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-3.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\wave-down.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\wave-down.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\wave-down.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\wave-up.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\wave-up.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\wave-up.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\waves-gray.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\waves-gray.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-gray.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\waves-white.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\shapes\\waves-white.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-white.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\icon-sun-cloud.png",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\icon-sun-cloud.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\logo-atlassian.svg",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-atlassian.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\logo-invision.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\logo-invision.svg",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-invision.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\logo-jira.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\logo-jira.svg",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-jira.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\logo-slack.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\logo-slack.svg",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-slack.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\logo-spotify.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\logo-spotify.svg",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-spotify.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\logo-webdev.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\logo-webdev.svg",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-webdev.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\logo-xd.svg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\small-logos\\logo-xd.svg",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-xd.svg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\team-1.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\team-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\team-2.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\team-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\team-3.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\team-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\team-4.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\team-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-4.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\angular.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\angular.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\angular.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\bootstrap.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\bootstrap.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\bootstrap.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\dribbble.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\dribbble.png",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\dribbble.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\dropbox.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\dropbox.png",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\dropbox.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\mastercard.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\mastercard.png",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\mastercard.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\paypal.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\paypal.png",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\paypal.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\react.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\react.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\react.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\sketch.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\sketch.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\sketch.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\slack.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\slack.png",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\slack.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\spotify.jpeg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\spotify.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\spotify.jpeg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\tim.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\tim.png",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\tim.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\unass.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\unass.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\unass.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\visa.png",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\visa.png",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\visa.png"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\vue.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\theme\\vue.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\theme\\vue.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\vr-bg.jpg",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\img\\vr-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\vr-bg.jpg"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\argon-dashboard.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\argon-dashboard.js",
       "PackagePath": "staticwebassets\\assets\\js\\argon-dashboard.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\argon-dashboard.js.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\argon-dashboard.js.map",
       "PackagePath": "staticwebassets\\assets\\js\\argon-dashboard.js.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\argon-dashboard.min.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\argon-dashboard.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\argon-dashboard.min.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\core\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\core\\popper.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\plugins\\Chart.extension.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\plugins\\Chart.extension.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\Chart.extension.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.min.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\smooth-scrollbar.min.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_alert.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_alert.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_alert.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_avatars.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_avatars.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_avatars.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_badge.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_badge.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_badge.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_breadcrumbs.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_breadcrumbs.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_breadcrumbs.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_buttons.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_buttons.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_cards.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_cards.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_cards.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_dark-version.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_dark-version.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_dark-version.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_dropdown.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_dropdown.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_dropdown.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_dropup.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_dropup.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_dropup.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_fixed-plugin.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_fixed-plugin.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_fixed-plugin.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_footer.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_footer.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_footer.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_forms.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_forms.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_forms.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_gradients.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_gradients.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_gradients.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_header.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_header.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_header.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_info-areas.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_info-areas.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_info-areas.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_misc.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_misc.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_misc.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_nav.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_nav.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_nav.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_navbar-vertical.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_navbar-vertical.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_navbar-vertical.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_navbar.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_navbar.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_navbar.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_pagination.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_pagination.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_pagination.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_popovers.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_popovers.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_popovers.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_progress.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_progress.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_progress.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_rtl.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_rtl.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_rtl.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_social-buttons.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_social-buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_social-buttons.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_tables.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_tables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_tables.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_tilt.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_tilt.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_tilt.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_timeline.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_timeline.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_timeline.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_tooltips.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_tooltips.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_tooltips.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_typography.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_typography.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_typography.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_utilities-extend.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_utilities-extend.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_utilities-extend.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_utilities.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_utilities.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_variables.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\_variables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_variables.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_accordion.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_accordion.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_accordion.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_alert.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_alert.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_alert.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_badge.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_badge.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_badge.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_breadcrumb.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_button-group.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_button-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_button-group.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_buttons.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_buttons.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_card.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_card.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_card.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_carousel.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_carousel.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_carousel.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_close.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_close.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_close.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_containers.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_containers.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_containers.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_dropdown.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_dropdown.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_dropdown.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_forms.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_forms.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_forms.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_functions.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_functions.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_functions.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_grid.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_grid.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_grid.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_helpers.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_helpers.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_helpers.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_images.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_images.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_images.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_list-group.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_list-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_list-group.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_maps.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_maps.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_maps.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_mixins.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_mixins.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_mixins.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_modal.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_modal.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_modal.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_nav.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_nav.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_nav.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_navbar.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_navbar.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_navbar.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_offcanvas.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_offcanvas.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_pagination.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_pagination.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_pagination.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_placeholders.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_placeholders.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_placeholders.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_popover.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_popover.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_popover.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_progress.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_progress.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_progress.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_reboot.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_reboot.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_reboot.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_root.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_root.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_root.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_spinners.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_spinners.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_spinners.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_tables.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_tables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_tables.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_toasts.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_toasts.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_toasts.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_tooltip.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_tooltip.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_tooltip.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_transitions.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_transitions.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_transitions.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_type.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_type.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_type.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_utilities.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_utilities.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_variables-dark.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_variables-dark.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_variables-dark.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_variables.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_variables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_variables.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-grid.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-reboot.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-utilities.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-check.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-control.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-range.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-select.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-text.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_input-group.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_labels.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_labels.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_validation.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_validation.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_color-bg.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_color-bg.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_focus-ring.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_focus-ring.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_focus-ring.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_icon-link.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_icon-link.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_icon-link.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_position.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_position.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_ratio.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stacks.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stacks.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_vr.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_vr.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_alert.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_backdrop.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_backdrop.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_banner.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_banner.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_banner.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_buttons.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_caret.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-mode.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-mode.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-mode.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_container.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_container.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_forms.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_gradients.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_grid.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_image.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_image.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_list-group.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_lists.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_pagination.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_resize.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_transition.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_utilities.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\jasmine.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\jasmine.js",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\jasmine.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_auto-import-of-variables-dark.test.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_auto-import-of-variables-dark.test.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_auto-import-of-variables-dark.test.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_color-modes.test.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_color-modes.test.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_color-modes.test.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_media-query-color-mode-full.test.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_media-query-color-mode-full.test.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_media-query-color-mode-full.test.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_utilities.test.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_utilities.test.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_utilities.test.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\sass-true\\register.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\sass-true\\register.js",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\sass-true\\register.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\sass-true\\runner.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\sass-true\\runner.js",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\sass-true\\runner.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\utilities\\_api.test.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\utilities\\_api.test.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\tests\\utilities\\_api.test.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\utilities\\_api.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\utilities\\_api.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\vendor\\_rfs.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\cards\\card-background.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\cards\\card-background.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\cards\\card-background.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\cards\\card-carousel.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\cards\\card-carousel.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\cards\\card-carousel.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\custom\\_styles.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\custom\\_styles.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\custom\\_styles.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\custom\\_variables.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\custom\\_variables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\custom\\_variables.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_form-check.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_form-check.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_form-select.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_form-select.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_form-switch.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_form-switch.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_form-switch.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_forms.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_forms.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_forms.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_input-group.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_input-group.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_inputs.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_inputs.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_inputs.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_labels.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_labels.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_badge.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_badge.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\mixins\\_badge.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_colored-shadows.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_colored-shadows.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\mixins\\_colored-shadows.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_hover.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_hover.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\mixins\\_hover.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_social-buttons.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_social-buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\mixins\\_social-buttons.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\mixins.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\mixins.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\mixins\\mixins.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_flatpickr.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_flatpickr.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\plugins\\free\\_flatpickr.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_nouislider.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_nouislider.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\plugins\\free\\_nouislider.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_prism.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_prism.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\plugins\\free\\_prism.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\plugins.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\plugins.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\plugins\\free\\plugins.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\theme.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\theme.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\theme.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_animations.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_animations.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_animations.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_avatars.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_avatars.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_avatars.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_badge.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_badge.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_badge.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_breadcrumb.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_breadcrumb.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_cards-extend.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_cards-extend.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_cards-extend.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_cards.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_cards.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_cards.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_choices.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_choices.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_choices.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_dark-version.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_dark-version.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_dark-version.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_dropdowns.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_dropdowns.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_dropdowns.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_fixed-plugin.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_fixed-plugin.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_fixed-plugin.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_form-switch.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_form-switch.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_form-switch.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_full-calendar.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_full-calendar.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_full-calendar.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_header.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_header.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_header.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_info-areas.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_info-areas.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_info-areas.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_misc-extend.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_misc-extend.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_misc-extend.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_misc.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_misc.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_misc.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_navbar-vertical.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_navbar-vertical.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_navbar-vertical.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_navbar.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_navbar.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_navbar.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_pagination.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_pagination.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_pagination.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_rtl.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_rtl.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_rtl.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_social-buttons.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_social-buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_social-buttons.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_table.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_table.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_table.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_timeline.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_timeline.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_timeline.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_utilities-extend.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_utilities-extend.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_utilities-extend.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_utilities.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_utilities.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_virtual-reality.scss",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_virtual-reality.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_virtual-reality.scss"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\css\\site.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\favicon.ico",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\js\\site.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\C-Sharp\\LeadsHR\\LeadsHR\\LeadsHR.csproj": {}
+    "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\LeadsHR.csproj": {}
   },
   "projects": {
-    "H:\\C-Sharp\\LeadsHR\\LeadsHR\\LeadsHR.csproj": {
+    "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\LeadsHR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\LeadsHR.csproj",
+        "projectUniqueName": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\LeadsHR.csproj",
         "projectName": "LeadsHR",
-        "projectPath": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\LeadsHR.csproj",
+        "projectPath": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\LeadsHR.csproj",
         "packagesPath": "C:\\Users\\Kamrul\\.nuget\\packages\\",
-        "outputPath": "H:\\C-Sharp\\LeadsHR\\LeadsHR\\obj\\",
+        "outputPath": "H:\\C-Sharp\\BrainHub\\LeadsHR\\LeadsHR\\LeadsHR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

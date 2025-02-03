@@ -75,9 +75,6 @@ namespace LeadsHR.Controllers
             return View(employee);
         }
 
-
-
-
         // Edit Employee - GET
         public async Task<IActionResult> Edit(int id)
         {
@@ -85,24 +82,95 @@ namespace LeadsHR.Controllers
             if (employee == null)
                 return NotFound();
 
-            return View(employee);
+            var employeeEducationInfos = await _unitOfWork.EducationInfos.FindAsync(e => e.EmployeeId == id);
+
+            var viewModel = new EmployeeEditViewModel
+            {
+                Employee = employee,
+                EducationInfos = employeeEducationInfos.ToList()
+            };
+
+            return View(viewModel);
         }
+
+
 
         // Edit Employee - POST
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(int id, Employee employee)
+        public async Task<IActionResult> Edit(int id, EmployeeEditViewModel model)
         {
-            if (id != employee.EmployeeId)
+            if (id != model.Employee.EmployeeId)
                 return BadRequest();
 
-            if (ModelState.IsValid)
+            //if (!ModelState.IsValid)
+            //{
+            //    // If ModelState is invalid, return the same view with existing data
+            //    model.EducationInfos = (await _unitOfWork.EducationInfos
+            //                           .FindAsync(e => e.EmployeeId == model.Employee.EmployeeId))
+            //                           .ToList();
+            //    return View(model);
+            //}
+
+            // Fetch the existing employee from the database
+            var employeeInDb = await _unitOfWork.Employees.GetByIdAsync(id);
+            if (employeeInDb == null)
+                return NotFound();
+
+            // Update employee details
+            employeeInDb.FirstName = model.Employee.FirstName;
+            employeeInDb.LastName = model.Employee.LastName;
+            employeeInDb.Email = model.Employee.Email;
+            employeeInDb.Division = model.Employee.Division;
+            employeeInDb.Building = model.Employee.Building;
+            employeeInDb.Title = model.Employee.Title;
+            employeeInDb.Room = model.Employee.Room;
+
+            // Handle education information updates
+            var existingEducationInfos = employeeInDb.EducationInfos.ToList();
+
+            // Remove education info that no longer exists in the updated list
+            foreach (var existingEdu in existingEducationInfos)
             {
-                _unitOfWork.Employees.Update(employee);
-                return RedirectToAction(nameof(Index));
+                if (!model.EducationInfos.Any(e => e.EducationInfoId == existingEdu.EducationInfoId))
+                {
+                    _unitOfWork.EducationInfos.Remove(existingEdu);
+                }
             }
-            return View(employee);
+
+            // Add or update education info
+            foreach (var edu in model.EducationInfos)
+            {
+                var existingEdu = existingEducationInfos
+                    .FirstOrDefault(e => e.EducationInfoId == edu.EducationInfoId);
+
+                if (existingEdu != null)
+                {
+                    // Update existing education info
+                    existingEdu.Degree = edu.Degree;
+                    existingEdu.Institution = edu.Institution;
+                    existingEdu.YearOfPassing = edu.YearOfPassing;
+                    existingEdu.CGPA = edu.CGPA;
+                }
+                else
+                {
+                    // Add new education info
+                    employeeInDb.EducationInfos.Add(new EducationInfo
+                    {
+                        EmployeeId = model.Employee.EmployeeId,
+                        Degree = edu.Degree,
+                        Institution = edu.Institution,
+                        YearOfPassing = edu.YearOfPassing,
+                        CGPA = edu.CGPA
+                    });
+                }
+            }
+
+            await _unitOfWork.SaveAsync();  // Save changes
+
+            return RedirectToAction(nameof(Index));
         }
+
 
         // Delete Employee - GET (Confirm Deletion)
         public async Task<IActionResult> Delete(int id)

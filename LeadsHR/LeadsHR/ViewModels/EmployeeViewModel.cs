@@ -7,4 +7,9 @@ namespace LeadsHR.ViewModels
         public IEnumerable<Employee> Employees { get; set; } = new List<Employee>();
         public IEnumerable<EducationInfo> EducationInfos { get; set; } = new List<EducationInfo>();
     }
+    public class EmployeeEditViewModel
+    {
+        public Employee Employee { get; set; }
+        public List<EducationInfo> EducationInfos { get; set; }
+    }
 }
